@@ -1,0 +1,11 @@
+{
+  "123": {
+    "busName": "AirBus",
+    "source": "Jaipur",
+    "destination": "Kota",
+    "startTime": 1200,
+    "endTime": 1500,
+    "busFreq": 3,
+    "capacity": 100
+  }
+}

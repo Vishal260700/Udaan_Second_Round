@@ -1,0 +1,7 @@
+AirBus, 345, jaipur, kota, (2020, 7, 26), (2020, 11, 23), ['Mon', 'Tue'], 100
+redbus, 172, kanpur, guwahati, (2020, 2, 21), (2020, 7, 23), ['Tue', 'Wed'], 10
+bluebus, 721, goa, pilani, (2020, 7, 26), (2020, 11, 23), ['Fri', 'Sat'], 11
+yellowbus, 713, roorkee, bombay, (2020, 7, 26), (2019, 11, 23), ['Mon', 'Tue', 'Fri', 'Sun'], 120
+greenbus, 713, delhi, madras, (2020, 7, 26), (2021, 9, 2), ['Thu'], 40
+myBus, 621, india, bhutan, (2018, 5, 12), (2019, 11, 23), ['Mon', 'Tue', 'Fri', 'Sun'], 60
+yellow bus should fail as destination date is lower
